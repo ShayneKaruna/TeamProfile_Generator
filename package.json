@@ -1,0 +1,20 @@
+{
+  "name": "teamprofile_generator---copy",
+  "version": "1.0.0",
+  "description": "Generate a team profile HTML with:\r * manager(Name, ID, Email, office number)\r * Engineer(Name, ID, Email, office, Github link) \r * Intern(Name, ID, Email, office, school)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.2.2"
+  }
+}
